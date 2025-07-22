@@ -47,7 +47,7 @@ To help telecom business stakeholders **identify churn risks**, explore customer
 
 ## Outcome
 
-A fully interactive and insightful dashboard ready for stakeholders or client delivery, useful for analyst portfolios and job interviews.
+A fully interactive and insightful dashboard ready for stakeholders or client delivery.
 
 ---
 
