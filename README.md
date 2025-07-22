@@ -6,10 +6,10 @@ This is an end-to-end Business Intelligence dashboard built using **Power BI**, 
 
 ## Project Structure
 
-- `CustomerChurnDashboard_Saakshi.pbix` → Main Power BI dashboard file
-- `CustomerChurn_Dashboard_Insights.pdf` → Exported dashboard insights
-- `Dashboard_Full.png` → Screenshot of final dashboard
-- `Summary_Saakshi.txt` → Project overview, KPIs, and business insights
+- `Customer Churn Dashboard.pbix` → Main Power BI dashboard file
+- `Customer Churn Dashboard Insights.pdf` → Exported dashboard insights
+- `Screenshot_1.jpg` → Screenshot of final dashboard
+- `Project Summary` → Project overview, KPIs, and business insights
 
 ---
 
